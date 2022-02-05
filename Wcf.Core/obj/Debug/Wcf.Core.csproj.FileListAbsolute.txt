@@ -1,0 +1,12 @@
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\bin\Debug\Wcf.Core.dll.config
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\bin\Debug\Wcf.Core.dll
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\bin\Debug\Wcf.Core.pdb
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\bin\Debug\EntityFramework.dll
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\bin\Debug\EntityFramework.xml
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\obj\Debug\Wcf.Core.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\obj\Debug\Wcf.Core.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\obj\Debug\Wcf.Core.csproj.CopyComplete
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\obj\Debug\Wcf.Core.dll
+C:\Users\kurtulusocL\Desktop\Wcf\Wcf.Core\obj\Debug\Wcf.Core.pdb

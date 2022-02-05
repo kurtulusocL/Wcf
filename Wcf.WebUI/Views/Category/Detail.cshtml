@@ -1,0 +1,25 @@
+﻿@model Wcf.Entities.Concrete.Category
+@{
+    ViewBag.Title = "Category Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <h3>@ViewBag.Title</h3>
+    <div class="row">
+        <div>
+            <hr />
+            <dl class="dl-horizontal">
+                <dt>Category Name</dt>
+                <dd>@Model.Name</dd>
+
+                <dt>Crateted Date</dt>
+                <dd>@Model.CreatedDate.ToShortDateString()</dd>
+            </dl>
+        </div>
+    </div>
+</div>
+<p>
+    <a href="~/Category/Edit/@Model.Id" class="btn btn-success btn-xs">Edit</a> |
+    <a href="~/Category/Index" class="btn btn-primary btn-xs"> Back to List</a>
+</p>
